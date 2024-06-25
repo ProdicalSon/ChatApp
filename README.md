@@ -1,4 +1,4 @@
-# Chat Application using PHP with MySQL & Ajax
+# Chat Application
 
 
 
